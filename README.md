@@ -11,7 +11,7 @@ votes casted with 6.7% of all votes casted.
 - By candidate, Charles Casper Stockham won 85,213 votes with 23% of all votes casted, Diana DeGette won 272,892 votes with 73.8% of all votes casted, and 
 Raymon Anthony Doane won 11,606 votes with 3.1% of all votes casted.
 - Diana DeGette was the election winner with 272,892 votes and 73.8% of the total vote.
-### Election Summary
+## Election Summary
 This script can be used for any election. For one instance, if one wanted to change the scale of the election, United States presidential elections for example, 
 you could change the script to read states instead of counties, and count votes from states, provided you have a csv file with that information. This can happen in a second way,
 in the other direction too. If one wanted to analyze a much smaller election, such as a mayor or a city council, one can change the script to read and count the votes from
