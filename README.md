@@ -4,6 +4,7 @@ The purpose of this election audit analysis is breakdown the election results fo
 candidate received, their respective percentages, as well as the number of votes that came from each county and the respective percentages each county provided 
 to the total vote count.
 ## Election-Audit Results
+![This is an image](
 - There was a total of 369,711 votes casted in this election.
 - By county, Jefferson had 38,555 votes casted with 10.5% of all votes casted, Denver had 306,555 votes with 82.8% of all votes casted, and Arapahoe has 24,801
 votes casted with 6.7% of all votes casted.
